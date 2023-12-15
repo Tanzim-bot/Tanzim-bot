@@ -14,9 +14,9 @@
   <li>Together, let's connect, create something amazing, and create a welcoming environment.</li> 
   <li>Feel free to ask me anything about computer science stuff or IT-related things. I am always open to getting connected        with new individuals for learning opportunities.</li></p></ul>
   
-<h2>😝 Recent Projects</h2>
+<h2> Recent Projects</h2>
 -[Letter Shape] (https://github.com/Tanzim-bot/Letter-Pattern)
--[calculator] (
+-[calculator] (https://github.com/Tanzim-bot/Calculator0
 <h2> 🤝 Connect with me:</h2>
 
 [<img align="left" alt="Tanzim | Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />][gmail]
