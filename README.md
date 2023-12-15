@@ -22,7 +22,7 @@
 [<img align="left" alt="Tanzim | Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][gmail]
 [<img align="left" alt="Tanzim | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
-[youtube]:https://gmail.com/
+[gmail]:https://gmail.com/
 [instagram]:https://www.instagram.com/
 
 
