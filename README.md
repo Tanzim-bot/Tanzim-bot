@@ -19,7 +19,7 @@
 
 <h2> 🤝 Connect with me:</h2>
 
-[<img align="left" alt="Tanzim | Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][gmail]
+[<img align="left" alt="Tanzim | Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />][gmail]
 [<img align="left" alt="Tanzim | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 [gmail]:https://gmail.com/
