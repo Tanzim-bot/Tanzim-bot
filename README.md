@@ -16,7 +16,7 @@
   
 <h2> Recent Projects</h2>
 -[Letter Shape] (https://github.com/Tanzim-bot/Letter-Pattern)
--[calculator] (https://github.com/Tanzim-bot/Calculator0
+-[calculator] (https://github.com/Tanzim-bot/Calculator)
 <h2> 🤝 Connect with me:</h2>
 
 [<img align="left" alt="Tanzim | Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />][gmail]
