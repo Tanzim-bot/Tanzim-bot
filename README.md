@@ -22,7 +22,7 @@
 [<img align="left" alt="Tanzim | Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />][gmail]
 [<img align="left" alt="Tanzim | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
-[gmail]:https://gmail.com/https://mail.google.com/mail/u/0/#inbox/CllgCHrjFGqXkBCMNHnxZMHPzlPgCzBJLNCPzLZLWgBdbVKQTgMQBpPJVNBkckmfJhQGCsqhGDq?compose=SxfkdnRRfDQnCpBrZDkqjvrZkDShFcmkzXfgCndNdvGczBmHVhCgNvkNfFjnkWgPLMTCzdhNnsqgMQbRNNSbcxPHJBNqJDTTFmBwvlMTxjpzLSWLXXB
+[gmail]:https://gmail.com/https://mail.google.com/kazijunior03@gmail.com
 [instagram]:https://www.instagram.com/
 
 
