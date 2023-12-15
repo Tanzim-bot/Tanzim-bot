@@ -24,6 +24,4 @@
 [<img align="left" alt="Tanzim | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
 
-[youtube]:https://youtube.com/
-[linkedin]:https://linkedin.com/in/
-[instagram]:https://instagram.com/
+
