@@ -23,7 +23,7 @@
 [<img align="left" alt="Tanzim | Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][facebook]
 
 [gmail]:https://gmail.com/https://mail.google.com/kazijunior03@gmail.com
-[facebook]:https://facebook.com/
+[facebook]:https://facebook.com/https://www.facebook.com/tanzim.rahman.1272
 
 
 
