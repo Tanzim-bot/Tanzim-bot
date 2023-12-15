@@ -1,7 +1,7 @@
 ### Hi there 👋
 <h1>Hello, I'm Tanzim!</h1>
 - <h2>🔭 Myself</h2>
-  <p>hi,I am an enthusiatic,self motivated,reliable,responsible and hard working person, i am a mature team worker and adaptable to all challenging situations.i am able to work well under pressure and adhere to strict deadlines.some of my relevant experience had came from part-jobs,internships,service-learning,volunteer work,class projects,IT farms and other activities.</p>
+  <p>hi, I am an enthusiastic, self-motivated,reliable, responsible, and hard-working person. I am a mature team worker and adaptable to all challenging situations. I am able to work well under pressure and adhere to strict deadlines. Some of my relevant experience came from part-time jobs,internships,service learning,volunteer work,class projects,IT farms, and other activities.</p>
 
   <h2>👨 What I am doing:</h2>
   <p>I am currently studying computer science (BSC) at the University of South Wales. I am looking to collaborate with some IT farms and computer science institutions to enhance my academic career. I do have fantastic communication skills, as demonstrated by my ability to grab ideas clearly and profusely. My active listening skills enable me to comprehend diverse perspectives,fostering effective collaboration</p>.
