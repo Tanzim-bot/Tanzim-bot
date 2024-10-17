@@ -20,10 +20,10 @@
 <h2> 🤝 Connect with me:</h2>
 
 [<img align="left" alt="Tanzim | Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />][gmail]
-[<img align="left" alt="Tanzim | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/LinkedIn.svg" />][LinkedIn]
+[<img align="left" alt="Tanzim | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
 [gmail]:https://gmail.com/https://mail.google.com/kazijunior03@gmail.com
-
+[linkedin]:https://www.linkedin.com/feed/?trk=guest_homepage-basic_google-one-tap-submit
 
 
 
