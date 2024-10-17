@@ -20,7 +20,7 @@
 <h2> 🤝 Connect with me:</h2>
 
 [<img align="left" alt="Tanzim | Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />][gmail]
-
+[<img align="left" alt="Tanzim | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/LinkedIn.svg" />][LinkedIn]
 
 [gmail]:https://gmail.com/https://mail.google.com/kazijunior03@gmail.com
 
