@@ -15,7 +15,7 @@
   <li>Feel free to ask me anything about computer science stuff or IT-related things. I am always open to getting connected        with new individuals for learning opportunities.</li></p></ul>
   
 <h2> Recent Projects</h2>
--[Letter Shape] (https://github.com/Tanzim-bot/Letter-Pattern)
+-[Vending Machine] (https://github.com/Tanzim-bot/Letter-Pattern)
 -[calculator] (https://github.com/Tanzim-bot/Calculator)
 <h2> 🤝 Connect with me:</h2>
 
